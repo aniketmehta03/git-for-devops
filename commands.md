@@ -1,7 +1,7 @@
 # Git Commands
 
 ## 1. Initialization
-- **Create a new Git repository**:
+- **Create a new Git Repository**:
   
   `git init`
 
