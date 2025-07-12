@@ -19,7 +19,7 @@
   
   `touch <filename>`
 
-- **Remove a file**:
+- **Remove a File**:
   
   `rm <filename>`
 
